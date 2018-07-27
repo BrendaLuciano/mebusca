@@ -1382,9 +1382,3 @@ h1, h2, h3, h4, h5, h6, figure {
 .background-image{
   background-image: "../images/car.jpg" !important;
 }
-.button{
- <form method="get" action=" http://pt.wikihow.com/P%C3%A1gina-principal"><button type="submit">Página Inicial</button></form>
-border-radius: 50px;
-border-color: #0a4e90;
-
-}
