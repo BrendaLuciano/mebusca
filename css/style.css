@@ -564,6 +564,10 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 40px;
   color: #F36363;
 }
+.icon{
+  font-size: 40px;
+  color: #F36363;
+}
 .feature-center p, .feature-center h3 {
   margin-bottom: 30px;
 }
