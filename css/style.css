@@ -485,12 +485,12 @@ h1, h2, h3, h4, h5, h6, figure {
   zoom: 1;
   *display: inline;
   color: #0a4e90;
-  padding-left: 10px;
-  padding-right: 10px
+  padding-left: 0px;
+  padding-right: 33px
 
 }
 .fh5co-social-icons li a i {
-  font-size: 30px;
+  font-size: 33px;
  }
 
 .fh5co-contact-info ul {
