@@ -92,6 +92,7 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 100%;
   padding: 40px 0;
   z-index: 1001;
+  ima
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav {
@@ -483,13 +484,14 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #F36363;
+  color: #0a4e90;
   padding-left: 10px;
-  padding-right: 10px;
+  padding-right: 10px
+
 }
 .fh5co-social-icons li a i {
-  font-size: 20px;
-}
+  font-size: 30px;
+ }
 
 .fh5co-contact-info ul {
   padding: 0;
