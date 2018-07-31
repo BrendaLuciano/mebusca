@@ -1197,21 +1197,21 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-primary {
-  background: #F36363;
+  background: #009cde;
   color: #fff;
-  border: 2px solid #F36363;
+  border: 2px solid #009cde;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #f57b7b !important;
-  border-color: #f57b7b !important;
+  background: #0a4e90 !important;
+  border-color: #0a4e90 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #F36363;
-  border: 2px solid #F36363;
+  color: #009cde;
+  border: 2px solid #009cde;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #F36363;
+  background: #009cde;
   color: #fff;
 }
 
