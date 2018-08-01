@@ -5,13 +5,27 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@font-face {
+    font-family: 'Arciform'; /*a name to be used later*/
+    src: url("../fonts/Arciform.ttf"); /*URL to font*/
+}
 /* =======================================================
 *
 * 	Template Style 
 *
 * ======================================================= */
 body {
-  font-family: "Work Sans", Arial, sans-serif;
+  font-family: "Arciform", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #828282;
+  background: #fff;
+}
+
+header {
+  font-family: "CaviarDreams", Arial, sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
@@ -920,7 +934,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-footer .fh5co-widget h3 {
   margin-bottom: 15px;
   font-weight: bold;
-  font-size: 15px;
+  font-size: 30px;
   letter-spacing: 2px;
   text-transform: uppercase;
 }
