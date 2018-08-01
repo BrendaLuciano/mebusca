@@ -7,8 +7,8 @@
 }
 
 @font-face {
-    font-family: 'Arciform'; /*a name to be used later*/
-    src: url("../fonts/Arciform.ttf"); /*URL to font*/
+    font-family: 'Comfortaa-Bold'; /*a name to be used later*/
+    src:url("../fonts/Comfortaa-Bold.ttf"); /*URL to font*/
 }
 /* =======================================================
 *
@@ -16,7 +16,7 @@
 *
 * ======================================================= */
 body {
-  font-family: "Arciform", Arial, sans-serif;
+  font-family: "Work Sans", Arial, sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
@@ -25,7 +25,7 @@ body {
 }
 
 header {
-  font-family: "CaviarDreams", Arial, sans-serif;
+  font-family: "Comfortaa-Bold", Arial, sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
