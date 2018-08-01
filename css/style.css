@@ -7,8 +7,8 @@
 }
 
 @font-face {
-    font-family: 'Comfortaa-Bold'; /*a name to be used later*/
-    src:url("../fonts/Comfortaa-Bold.ttf"); /*URL to font*/
+    font-family: 'Comfortaa-Regular'; /*a name to be used later*/
+    src:url("../fonts/Comfortaa-Regular.ttf"); /*URL to font*/
 }
 /* =======================================================
 *
@@ -25,7 +25,7 @@ body {
 }
 
 header {
-  font-family: "Comfortaa-Bold", Arial, sans-serif;
+  font-family: "Comfortaa-Regular", Arial, sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
