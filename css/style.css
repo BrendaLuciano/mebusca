@@ -484,7 +484,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #0a4e90;
+  color: #009cde;
   padding-left: 0px;
   padding-right: 33px
 
@@ -885,7 +885,6 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-started .form-inline .form-group .form-control {
   width: 100%;
 }
-
 
 }
 #fh5co-footer .fh5co-footer-links {
