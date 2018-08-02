@@ -648,7 +648,7 @@ h1, h2, h3, h4, h5, h6, figure {
   visibility: visible;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
-  transition: 0.3s;
+  transition: 0.3s; 
 }
 #fh5co-project .fh5co-project > a span {
   font-size: 14px;
@@ -869,7 +869,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-started {
-  background: #392f2f;
+  background: #f2f2f2;
 }
 #fh5co-started .fh5co-heading h2 {
   color: #fff;
