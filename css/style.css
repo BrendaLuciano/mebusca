@@ -424,7 +424,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-about,
 #fh5co-contact,
 #fh5co-footer {
-  padding: 7em 0;
+  padding: 3em 0;
   clear: both;
 }
 @media screen and (max-width: 768px) {
@@ -1360,7 +1360,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .row-pb-md {
-  padding-bottom: 4em !important;
+  padding-bottom: 1em !important;
 }
 
 .row-pb-sm {
@@ -1438,18 +1438,3 @@ h10{
   font-size: 40px;
   text-align: center;  
   }
-
-  .button1 {
-  margin-right: 4px;
-  margin-bottom: 4px;
-  font-family: "Work Sans", Arial, sans-serif;
-  font-size: 30px;
-  border-color: #000;
-  -webkit-border-radius: 30px;
-  -moz-border-radius: 90px;
-  -ms-border-radius: 90px;
-  border-radius: 90px;
-  -webkit-transition: 0.5s;
-  -o-transition: 0.5s;
-  transition: 0.5s;
-  padding: 8px 20px;
