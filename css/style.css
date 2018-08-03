@@ -519,7 +519,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-contact-info ul li:before {
   color: #0a4e90;
-  position: relative;
+  position: absolute;
   left: 0;
   top: .05em;
   font-family: 'icomoon';
