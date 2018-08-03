@@ -1471,3 +1471,38 @@ h10{
 .btn{
       text-transform: unset !important;
 }
+
+.bg-section{
+  background-image: url("../images/background-prototipo.jpg");
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.form-control-white{
+      border: 2px solid rgb(255, 255, 255) !important;
+      color: #fff;
+}
+
+.form-control-white::placeholder{
+      color: #fff;
+}
+
+.form-control-white:-ms-input-placeholder{
+      color: #fff;
+}
+
+.form-control-white::-ms-input-placeholder{
+      color: #fff;
+}
+
+.text-white{
+  color: #fff !important;
+}
+
+.icon-30:before{
+ font-size: 30px !important;
+}
+
+.font-default{
+  font-family: "Work Sans", Arial, sans-serif;
+}
