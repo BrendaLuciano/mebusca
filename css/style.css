@@ -1201,7 +1201,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 8px 20px;
 }
 .btn.btn-md {
-  padding: 12px 27px !important;
+  padding: 15px 27px !important;
 }
 .btn.btn-lg {
   padding: 18px 36px !important;
@@ -1438,3 +1438,18 @@ h10{
   font-size: 40px;
   text-align: center;  
   }
+
+  .button1 {
+  margin-right: 4px;
+  margin-bottom: 4px;
+  font-family: "Work Sans", Arial, sans-serif;
+  font-size: 30px;
+  border-color: #000;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 90px;
+  -ms-border-radius: 90px;
+  border-radius: 90px;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+  padding: 8px 20px;
