@@ -51,25 +51,33 @@
     <body>
         <div class="fh5co-loader"></div>
         <div id="page">
-        <nav class="fh5co-nav" role="navigation">
-            <div class="container">
-            <div class="row">
-                <div class="feature-center-menu text-left menu-1 col-md-4">
-                    <a href="index.html"><img src="images/logo-menor.png" width="30%"></img></a>
+        <nav id="header" class="fh5co-nav navbar navbar-fixed-top" role="navigation">
+        <div id="header-container" class="container navbar-container">
+            <div class="row"> 
+                <div class="feature-center-menu text-left menu-1 col-md-4 js-gotop">
+                    <a href="#"><img src="images/logo-menor.png" width="30%"></img></a>
                 </div>
                 <div class="feature-center-menu text-right menu-1 col-md-8" style="margin-top: 1%">
                     <ul>
                         <li><a href="https://play.google.com/store/apps/details?id=com.easycarapp">Baixar</a></li>
-                        <li class="active"><a href="motorista.html">Motorista</a></li>
+                        <li><a href="motorista.html">Motorista</a></li>
                         <li><a href="passageiro.html">Passageiro</a></li>
                         <li><a href="franqueado.html">Franqueado</a></li>
                         <li><a href="contato.html">Contato</a></li>
+                        </ul>
+                        </li>
                     </ul>
+                </div>
+                <div class="right-menu text-left menu-1">
                     </li>
+                        
+                        <!-- <li class="btn-cta"><a href="#"><span>Login</span></a></li> -->
                     </ul>
                 </div>
             </div>
-        </nav>
+            
+        </div>
+    </nav>
         <header id="fh5co-header" class="fh5co-cover" role="banner" style="background-image:url(images/motoristas-capa.jpg);">
             <div class="container">
                 <div class="row">
@@ -249,33 +257,40 @@
          </div>
       </div>
         <footer id="fh5co-footer" role="contentinfo">
-            <div class="container">
-                <div class="row row-pb-md">
-                    <div class="col-md-2 col-sm-4 col-xs-6">
-                        <ul class="fh5co-footer-links">
-                            <a class="btn btn-md btn-info display-5" href="motorista.html"><span class="button" style="color: rgb(10,78,144);"></span>Motorista&nbsp;</a>
-                            <br>
-                            <a class="btn btn-md btn-info display-5" href="passageiro.html"><span class="button" style="color: rgb(10,78,144);"></span>Passageiro&nbsp;</a>
-                            <br>
-                            <a class="btn btn-md btn-info display-5" href="franqueado.html"><span class="button" style="color: rgb(10,78,144);"></span>Franqueado&nbsp;</a>
-                        </ul>
-                    </div>
-                    <div class="col-md-4 col-sm-12 col-xs-12 fh5co-widget col-md-push-6 text-center" >
-                        <h3>Fale com a gente</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                        <a class="btn btn-md btn-info display-5" href="contact.html"><span class="button" style="color: #f9bd27 ;"></span>Contato&nbsp;</a>
-                    </div>
+        <div class="container">
+            <div class="row row-pb-md">
+                <div class="col-md-4">
+                    <img src="images/azul.png" class="img-responsive" />
                 </div>
-                <div class="row copyright">
-                    <div class="col-md-11 text-right">
-                        <ul class="fh5co-social-icons text-right ">
+                <div class="col-md-4 col-sm-12 col-xs-12 fh5co-widget text-center" >
+                    <h3>Fale com a gente</h3>
+                    <h9>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h9>
+                    <br>
+                    <br>
+                    <a class="btn btn-md btn-info display-5 btn-w" href="contact.html"><span class="button" style="color: #009cde ;"></span>Contato&nbsp;</a>
+                </div>
+                <div class="col-md-4 col-sm-4 col-xs-6 text-center">
+                    <ul class="fh5co-footer-links">
+                        <a class="btn btn-md btn-info display-5 btn-w" href="index.html#header9-8"><span class="button" style="color: rgb(10,78,144);"></span>Motorista&nbsp;</a>
+                        <br>
+                        <a class="btn btn-md btn-info display-5 btn-w" href="index.html#header9-8"><span class="button" style="color: rgb(10,78,144);"></span>Passageiro&nbsp;</a>
+                        <br>
+                        <a class="btn btn-md btn-info display-5 btn-w" href="index.html#header9-8"><span class="button" style="color: rgb(10,78,144);"></span>Franqueado&nbsp;</a>
+                        </ul>
+                </div> 
+                
+            </div>
+            <div class="row copyright">
+                <div class="col-md-7">
+                    <ul class="fh5co-social-icons text-right ">
                             <li><a href="https://www.facebook.com/appmebusca/?modal=admin_todo_tour"><i class="icon-facebook"></i></a></li>
                             <li><a href="https://www.instagram.com/appmebusca/?hl=pt-br"><i class="icon-instagram"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
+                            </ul>
+                        </div>
             </div>
-        </footer>
+
+        </div>
+    </footer>
         <div class="gototop js-top">
             <a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
         </div>
@@ -289,5 +304,9 @@
         <script src="js/jquery.waypoints.min.js"></script>
         <!-- Main -->
         <script src="js/main.js"></script>
+
+        <!-- NavBar -->
+    <script src="js/navbar.js"></script>
+    
     </body>
 </html>
