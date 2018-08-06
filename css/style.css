@@ -1540,3 +1540,25 @@ h14{
 .btn.btn-za:hover, .btn.btn-za:focus, .btn.btn-za:active {
   background: #0a4e90 !important;
   border-color: #0a4e90 !important;
+}
+
+.btn.btn-aa{
+  padding: 15px 27px !important;
+  background: #0a4e90 !important;
+  border-color: #0a4e90 !important;
+  text-decoration-color: #fff !important;
+  color: #fff !important;
+}
+
+.btn.btn-aa1 {
+  padding: 18px 36px !important;
+}
+.btn-aa:hover, .btn-z:active, .btn-z:focus {
+  box-shadow: none !important;
+}
+
+.btn.btn-aa:hover, .btn.btn-aa:focus, .btn.btn-aa:active {
+  background: #009cde !important;
+  border-color: #009cde !important;
+
+
