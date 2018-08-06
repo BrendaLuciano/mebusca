@@ -1202,6 +1202,8 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .btn.btn-md {
   padding: 15px 27px !important;
+  background: #c1272d;
+  border-color: #c1272d;
 }
 .btn.btn-lg {
   padding: 18px 36px !important;
@@ -1521,12 +1523,3 @@ h14{
   font-family: "Work Sans", Arial, sans-serif;
 }
 
-.background-prototipo{
-  height: 300px;
-  background-size: cover;
-  background-position: top center;
-  background-repeat: no-repeat;
-  position: relative;
-  float: left;
-  width: 100%;
-}
