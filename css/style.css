@@ -1520,3 +1520,13 @@ h14{
 .font-default{
   font-family: "Work Sans", Arial, sans-serif;
 }
+
+.background-prototipo{
+  height: 300px;
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+  position: relative;
+  float: left;
+  width: 100%;
+}
