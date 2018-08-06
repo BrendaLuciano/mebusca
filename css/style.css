@@ -1439,6 +1439,13 @@ h10{
   text-align: center;  
   }
 
+h13{
+  color: #fff;
+  font-family: "Comfortaa-Regular";
+  font-size: 15px;
+  text-align: center;
+}
+
   .navbar.navbar-fixed-top.fixed-theme {
     background-color: #009cde;
     border-color: rgba(255, 255, 255, .4);
