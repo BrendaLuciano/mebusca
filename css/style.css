@@ -1,4 +1,4 @@
-@font-face {
+bg-section@font-face {
   font-family: 'icomoon';
   src: url("../fonts/icomoon/icomoon.eot?srf3rx");
   src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
@@ -1497,7 +1497,7 @@ h14{
 }
 
 .bg-section{
-  background-image: url("../images/background-prototipo.jpg");
+  background-image: url("../images/fundo-azul.png");
   padding-top: 3%;
   padding-bottom: 3%;
 }
@@ -1529,6 +1529,7 @@ h14{
 
 .font-default{
   font-family: "Work Sans", Arial, sans-serif;
+  text-align: center;
 }
 
 
