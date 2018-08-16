@@ -1721,3 +1721,9 @@ section .section-title {
     height: 120px;
     border-radius: 50%;
 }
+
+.team-text{
+  font-size: 15px;
+  color: #000;
+  text-align: center;
+}
