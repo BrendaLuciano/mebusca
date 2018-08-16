@@ -1597,9 +1597,7 @@ background-size: cover !important;
 /* FontAwesome for working BootSnippet :> */
 
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
-#team {
-    background: #eee !important;
-}
+
 
 .btn-primary:hover,
 .btn-primary:focus {
@@ -1611,8 +1609,8 @@ background-size: cover !important;
 
 .btn-primary {
     color: #fff;
-    background-color: #007b5e;
-    border-color: #007b5e;
+    background-color: ##0a4e90;
+    border-color: ###0a4e90;
 }
 
 section {
@@ -1621,7 +1619,7 @@ section {
 
 section .section-title {
     text-align: center;
-    color: #007b5e;
+    color: ##0a4e90;
     margin-bottom: 50px;
     text-transform: uppercase;
 }
@@ -1710,12 +1708,12 @@ section .section-title {
 
 .backside .card a {
     font-size: 18px;
-    color: #007b5e !important;
+    color: #0a4e90 !important;
 }
 
 .frontside .card .card-title,
 .backside .card .card-title {
-    color: #007b5e !important;
+    color: #0a4e90 !important;
 }
 
 .frontside .card .card-body img {
