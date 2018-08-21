@@ -1463,7 +1463,14 @@ h14{
   text-align: center;
 }
 
-  .navbar.navbar-fixed-top.fixed-theme {
+h15{
+  color: #000;
+  font-family: "Comfortaa-Regular";
+  font-size: 40px;
+  padding-right: : 100px !important;
+}
+
+.navbar.navbar-fixed-top.fixed-theme {
     background-color: #009cde;
     border-color: rgba(255, 255, 255, .4);
     box-shadow: 0 0 5px rgba(0,0,0,.8);
