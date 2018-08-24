@@ -1734,3 +1734,9 @@ section .section-title {
   color: #000;
   text-align: center;
 }
+
+
+.paddingContent{
+  padding-left: 60px;
+  padding-right: 60px;
+}
